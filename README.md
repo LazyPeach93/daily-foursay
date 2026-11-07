@@ -23,6 +23,7 @@
 
 ```text
 daily/       每日练习，按年、月归档
+audio/       练习音频和对应文字，按日期归档
 templates/   每日练习模板
 prompts/     复盘时使用的提示词
 ```
