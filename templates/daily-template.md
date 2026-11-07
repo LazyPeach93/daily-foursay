@@ -1,4 +1,4 @@
-# YYYY-MM-DD｜主题
+# YYYY-MM-DD
 
 ## 跟｜约 5 分钟
 
